@@ -10,7 +10,9 @@ We study whether iron sulfide minerals — the same materials found at deep-sea 
 
 | Project | Description | Status |
 |---------|-------------|--------|
+| [digital-twin](https://github.com/exopoiesis/digital-twin) | ORACLE pipeline: Sobol/Gillespie + FNO/PINN surrogate for protocell viability | Active |
 | [sulfide-proton-barriers](https://github.com/exopoiesis/sulfide-proton-barriers) | NEB/MD calculations of H⁺ diffusion in iron sulfides | Preliminary results |
+| [orcid-mcp](https://github.com/exopoiesis/orcid-mcp) | MCP server for ORCID API integration (Go + Python) | Released |
 | [exopoiesis.space](https://exopoiesis.github.io) | Project website | Live |
 
 #### Key results so far
@@ -21,7 +23,7 @@ We study whether iron sulfide minerals — the same materials found at deep-sea 
 
 #### Methods & tools
 
-`Python` · `ASE` · `MACE-MP-0` · `GPAW` · `Gillespie SSA` · `CI-NEB` · `Molecular Dynamics`
+`Python` · `ASE` · `MACE-MP-0` · `GPAW` · `Gillespie SSA` · `CI-NEB` · `Molecular Dynamics` · `FNO` · `PINN` · `PyTorch`
 
 #### About
 
